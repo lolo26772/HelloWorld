@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hello World,</title>
+<head>
+  <h1>Hello World</h1>
 </head>
 <body>
-  <h1>Hello World, I’m Yeukai</h1>
+  <h2>Hello World, I’m Yeukai</h2>
 </body>
 </html>
